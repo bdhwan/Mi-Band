@@ -299,7 +299,6 @@
         android:layout_margin="16dp"
         android:src="@mipmap/ic_save_white"
         app:borderWidth="0dp"
-        app:elevation="@dimen/fab_elevation"
         app:layout_anchor="@id/app_bar"
         app:layout_anchorGravity="bottom|right|end"/>
 
